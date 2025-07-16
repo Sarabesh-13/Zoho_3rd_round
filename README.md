@@ -1,2 +1,2 @@
 # Zoho_3rd_round
-Design_Patterns
+Design_Pattern
