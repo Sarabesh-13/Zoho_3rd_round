@@ -1,5 +1,4 @@
 # Zoho_3rd_round
-Design_Pattern
 ATM Machine System Design
 Documentation
 Project Overview
